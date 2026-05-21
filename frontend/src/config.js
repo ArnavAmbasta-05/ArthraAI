@@ -1,0 +1,1 @@
+const API_URL = "https://arthra-backend.up.railway.app";
